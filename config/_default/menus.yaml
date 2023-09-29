@@ -1,0 +1,17 @@
+leftnav:
+- identifier: 2c807298-a9c5-704d-e9c4-12f11225e426
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: a39a1494-4b43-c449-0821-9d8029edf3b7
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: cc23635c-feb2-7838-853e-1849fe6c41f9
+  name: Lecture Notes
+  pageRef: /video_galleries/lecture-notes
+  weight: 30
+- identifier: c3916b58-a0e5-510e-a063-83b409df4520
+  name: Projects
+  pageRef: /pages/projects
+  weight: 40
